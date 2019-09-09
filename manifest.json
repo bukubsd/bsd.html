@@ -7,32 +7,28 @@
   "theme_color": "#292929",
   "description": "Kumpulan Buku Sekolah Digital Kurikulum 2013",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-vq9hluhwKL4/XU_O3iT4mnI/AAAAAAAABB8/8fwVBQA__rExfS3ZnXEMoVOBQPyGDp15wCLcBGAs/s48/favbuku.png",
+    "src": "https://1.bp.blogspot.com/-byiZouVq_0A/XXZRDQRqyyI/AAAAAAAABSQ/IYWmrgSWFysbMGhwVb9AiNWjNJA0a2bsQCLcBGAs/s48/icon.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-vq9hluhwKL4/XU_O3iT4mnI/AAAAAAAABB8/8fwVBQA__rExfS3ZnXEMoVOBQPyGDp15wCLcBGAs/s72/favbuku.png",
+    "src": "https://1.bp.blogspot.com/-byiZouVq_0A/XXZRDQRqyyI/AAAAAAAABSQ/IYWmrgSWFysbMGhwVb9AiNWjNJA0a2bsQCLcBGAs/s72/icon.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-vq9hluhwKL4/XU_O3iT4mnI/AAAAAAAABB8/8fwVBQA__rExfS3ZnXEMoVOBQPyGDp15wCLcBGAs/s96/favbuku.png",
+    "src": "https://1.bp.blogspot.com/-byiZouVq_0A/XXZRDQRqyyI/AAAAAAAABSQ/IYWmrgSWFysbMGhwVb9AiNWjNJA0a2bsQCLcBGAs/s96/icon.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-vq9hluhwKL4/XU_O3iT4mnI/AAAAAAAABB8/8fwVBQA__rExfS3ZnXEMoVOBQPyGDp15wCLcBGAs/s144/favbuku.png",
+    "src": "https://1.bp.blogspot.com/-byiZouVq_0A/XXZRDQRqyyI/AAAAAAAABSQ/IYWmrgSWFysbMGhwVb9AiNWjNJA0a2bsQCLcBGAs/s144/icon.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-vq9hluhwKL4/XU_O3iT4mnI/AAAAAAAABB8/8fwVBQA__rExfS3ZnXEMoVOBQPyGDp15wCLcBGAs/s168/favbuku.png",
+    "src": "https://1.bp.blogspot.com/-byiZouVq_0A/XXZRDQRqyyI/AAAAAAAABSQ/IYWmrgSWFysbMGhwVb9AiNWjNJA0a2bsQCLcBGAs/s168/icon.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-vq9hluhwKL4/XU_O3iT4mnI/AAAAAAAABB8/8fwVBQA__rExfS3ZnXEMoVOBQPyGDp15wCLcBGAs/s192/favbuku.png",
+    "src": "https://1.bp.blogspot.com/-byiZouVq_0A/XXZRDQRqyyI/AAAAAAAABSQ/IYWmrgSWFysbMGhwVb9AiNWjNJA0a2bsQCLcBGAs/s192/icon.png",
     "sizes": "192x192",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-vq9hluhwKL4/XU_O3iT4mnI/AAAAAAAABB8/8fwVBQA__rExfS3ZnXEMoVOBQPyGDp15wCLcBGAs/s512/favbuku.png",
-    "sizes": "512x512",
     "type": "image/png"
   }]
 }
